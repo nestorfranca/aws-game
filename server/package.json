@@ -1,0 +1,10 @@
+{
+  "name": "aws-multiplayer-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.637.0",
+    "ws": "^8.18.0",
+    "dotenv": "^16.3.1"
+  }
+}
